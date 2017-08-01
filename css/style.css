@@ -1,1 +1,13 @@
 
+.cls-1 {
+  fill: #19198c;
+  stroke: #f9f9f9;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.5px;
+  fill-rule: evenodd;
+}
+
+.cls-1:hover{
+  fill: #b2b200;
+}
